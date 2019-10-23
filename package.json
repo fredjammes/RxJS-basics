@@ -1,0 +1,12 @@
+{
+  "name": "Observable",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "rxjs": "^6.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
